@@ -30,9 +30,12 @@ I'm a computer science graduate working as a Research & Data Associate at **Sali
 
 | Project | What it demonstrates | Technologies |
 | :--- | :--- | :--- |
+| [**Real-Time Accident Analysis**](https://github.com/SalmanOkz/Realtime-Accident-Analysis-Using-Flink-Kinesis) | Simulated accident-event streaming, Flink processing, alerts, and historical analytics with Terraform infrastructure. | Python, SQL, Flink, Kinesis, Firehose, Lambda, Athena, Grafana, Terraform |
 | [**YouTube Trending Data Pipeline**](https://github.com/SalmanOkz/youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction) | API ingestion, Bronze/Silver/Gold transformations, data quality checks, and analytics tables. | Python, PySpark, S3, Lambda, Glue, Step Functions, Athena |
 | [**Snowflake CDC & Historical Warehousing**](https://github.com/SalmanOkz/scd-data-warehouse-with-snowflake) | Automated ingestion and change tracking with SCD Type 1 and Type 2 history management. | Snowflake, Snowpipe, Streams & Tasks, NiFi, S3, Docker |
 | [**AWS ETL Orchestration**](https://github.com/SalmanOkz/etl-with-redshift-glue-stepfunction) | Orchestrated review-data transformations, analytical reporting, and failure notifications. | Redshift, Glue, Step Functions, S3, SQL, SNS |
+
+| [**ConnectCare**](https://github.com/SalmanOkz/ConnectCare) | A healthcare web application project connecting patients and providers, with a responsive frontend. | Next.js, React, TypeScript, Material UI, Tailwind CSS |
 
 [Browse all repositories →](https://github.com/SalmanOkz?tab=repositories)
 
@@ -41,10 +44,10 @@ I'm a computer science graduate working as a Research & Data Associate at **Sali
 | Area | Tools & concepts |
 | :--- | :--- |
 | **Languages** | Python, SQL, Java, JavaScript, TypeScript |
-| **Data engineering** | Apache Airflow, Kafka, Debezium, PySpark, Apache NiFi, ETL/ELT, CDC |
-| **Cloud & warehousing** | AWS S3, Lambda, Glue, Step Functions, Redshift, Athena, Snowflake, Databricks |
+| **Data engineering** | Apache Airflow, Kafka, Debezium, Apache Flink, PySpark, Apache NiFi, ETL/ELT, CDC |
+| **Cloud & warehousing** | AWS S3, Kinesis, Lambda, Glue, Step Functions, Redshift, Athena, Snowflake, Databricks |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Development & delivery** | Docker, Docker Compose, Linux, Git, GitHub Actions |
+| **Development & delivery** | Docker, Docker Compose, Terraform, Linux, Git, GitHub Actions |
 | **AI & computer vision** | PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO |
 
 ## Beyond the pipeline
