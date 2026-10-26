@@ -6,9 +6,11 @@
 
 Building data pipelines, exploring intelligent automation, and teaching the foundations behind them.
 
-<a href="https://www.linkedin.com/in/muhammad-salman-54b1472b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
-<a href="mailto:muhammadsalmanokzz@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-334155?style=for-the-badge" alt="Email Muhammad Salman"></a>
-<a href="https://github.com/SalmanOkz?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a>
+<a href="https://www.linkedin.com/in/muhammad-salman-54b1472b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:muhammadsalmanokzz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Salman"></a>
+<a href="https://github.com/SalmanOkz?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"></a>
+<a href="https://x.com/m_salman_okz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>
+<a href="https://www.instagram.com/salmankhan6462/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"></a>
 
 Karachi, Pakistan
 
@@ -58,7 +60,7 @@ I enjoy teaching **data structures, algorithms, SQL, and operating systems**, es
 
 Have a data engineering opportunity, a project idea, or a technical problem to explore?
 
-**[LinkedIn](https://www.linkedin.com/in/muhammad-salman-54b1472b7/) · [Email](mailto:muhammadsalmanokzz@gmail.com) · [X](https://x.com/m_salman_okz) · [Instagram](https://www.instagram.com/salmankhan6462/)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-54b1472b7/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsalmanokzz@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalmanOkz?tab=repositories) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/m_salman_okz) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/salmankhan6462/)
 
 <div align="center">
   <sub>Learning by building. Sharing by teaching.</sub>
